@@ -1,7 +1,6 @@
 # mywebsite
-updates to readme
+making the readme more functional. 
 
-*changes*
+## Thank you
 
-edits for new branch (update read-me)
-new changes
+__Who is John Galt?__
